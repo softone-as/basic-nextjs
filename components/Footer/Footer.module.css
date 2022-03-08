@@ -1,0 +1,9 @@
+.container {
+  padding: 8px;
+  box-shadow: 3px 3px 11px 3px rgb(204, 203, 203);
+}
+
+.footer {
+  color: darkgray;
+  text-align: center;
+}
